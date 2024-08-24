@@ -7,7 +7,7 @@ public class WhileDeterminado {
 		
 		while (contador <= 10) {
 			System.out.printf("i = %d\n", contador);
-			contador++;
+			contador ++;
 		}		
 	}
 }
